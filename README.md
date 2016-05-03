@@ -12,4 +12,4 @@ Updated Code
 ------------
 
 ```<action android:name="com.google.android.gms.wearable.DATA_CHANGED" />
-<action android:name="com.google.android.gms.wearable.MESSAGE_RECEIVED" />```
+   <action android:name="com.google.android.gms.wearable.MESSAGE_RECEIVED" />```
