@@ -3,6 +3,8 @@ Android-Wear-Demo
 
 Android Wear MessageApi implementation.
 
+```com.google.android.gms.wearable.BIND_LISTENER``` is deprecated now need to use updated code as mentioned below.
+
 Deprecated
 ----------
 
